@@ -1,0 +1,7 @@
+This is the location of the Titanic Kaggle Competition:
+
+https://www.kaggle.com/c/titanic (Links to an external site.)
+
+and this is the tutorial:
+
+https://www.kaggle.com/alexisbcook/titanic-tutorial
