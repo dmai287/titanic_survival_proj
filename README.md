@@ -14,6 +14,22 @@ The dataset used in this project can be found on [Kaggle](https://www.kaggle.com
 
 ## Project Structure
 
+```plaintext
+titanic-survival-prediction/
+│
+├── README.md                  # Project overview
+├── data/
+│   ├── raw/                   # Raw dataset (titanic.csv)
+├── notebooks/
+│   ├── 01_EDA.ipynb      # EDA and basic data analysis
+│   ├── 02_models.ipynb    # Data cleaning and preprocessing
+├── requirements.txt            # Dependencies list
+├── .gitignore                  # Files to ignore in the repository
+└── submission.csv              # Predictions on the test dataset
+```
+## Project Workflow
+
+
 ### 1. Data Exploration
 In the 01_data_exploration.ipynb notebook, we explore the Titanic dataset to understand the features and their relationships. The following steps were performed:
 
